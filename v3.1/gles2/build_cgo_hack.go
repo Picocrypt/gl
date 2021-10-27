@@ -12,5 +12,5 @@ package gles2
 //  - this file is given a build tag to exclude it from the regular build.
 import (
 	// Prevent go tooling from stripping out the c source files.
-	_ "github.com/go-gl/gl/v3.1/gles2/KHR"
+	_ "github.com/HACKERALERT/gl/v3.1/gles2/KHR"
 )
