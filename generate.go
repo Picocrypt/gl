@@ -1,4 +1,4 @@
-// +build gen
+//go:build gen
 
 //go:generate glow generate -out=./v2.1/gl/ -api=gl -version=2.1 -xml=../glow/xml/ -tmpl=../glow/tmpl/
 //go:generate glow generate -out=./all-core/gl/ -api=gl -version=all -profile=core -lenientInit -xml=../glow/xml/ -tmpl=../glow/tmpl/
