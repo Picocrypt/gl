@@ -1,3 +1,3 @@
-module github.com/HACKERALERT/gl
+module github.com/Picocrypt/gl
 
-go 1.12
+go 1.18
