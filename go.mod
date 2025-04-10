@@ -1,3 +1,3 @@
 module github.com/Picocrypt/gl
 
-go 1.18
+go 1.24
